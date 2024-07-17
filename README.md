@@ -6,7 +6,7 @@ This project is a clone of the Netflix website, built as a part of learning web 
 
 ## Live Demo 🚀
 
-Check out the live demo [here](https://krypto-etox.github.io/Netflix-clone/).
+Check out the live demo [here]((https://clone-netflix-proj.vercel.app/)).
 
 ## Features 🌟
 
