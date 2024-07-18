@@ -31,7 +31,7 @@ To clone and run this application locally, you can follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/krypto-etox/Netflix-clone.git
+   git clone https://github.com/shkammarr/netflix-clone.git
    ```
 
 2. Navigate into the project directory:
